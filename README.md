@@ -1,7 +1,7 @@
 ### Olá , Bem Vindo(a)
 
 <div>
-  <img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark" >
+  <img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=luk-z0&layout=compact&theme=github_dark" >
 </div> 
 <div style = "display: inline_block"><br>
             <img align = "center" alt = "java" height = "50" weigth = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>

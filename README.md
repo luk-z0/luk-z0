@@ -3,6 +3,7 @@
 <div>
   <img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=luk-z0&layout=compact&theme=github_dark" >
 </div> 
+<h3>Tecnológias estudadas</h3>
 <div style = "display: inline_block"><br>
             <img align = "center" alt = "java" height = "50" weigth = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
             <img align = "center" alt = "java" height = "50" weigth = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>

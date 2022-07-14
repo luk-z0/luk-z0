@@ -9,7 +9,7 @@
             <img align = "center" alt = "java" height = "50" weigth = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
             <img align = "center" alt = "java" height = "50" weigth = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
             <img align = "center" alt = "java" height = "50" weigth = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />         
-            <!--<img align = "center" alt = "java" height = "50" weigth = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />-->
+            <img align = "center" alt = "java" height = "50" weigth = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
 </div>
 <br>
 <div> 

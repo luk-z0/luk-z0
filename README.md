@@ -15,6 +15,7 @@
 <h3>Tecnológias que vão ser exploradas</h3>
 <div style = "display: inline_block">
   <img align = "center" alt = "java" height = "50" weigth = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align = "center" height = "50" weigth = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 </div>
 <br>
 <div> 

@@ -1,7 +1,7 @@
 ### Olá , Bem Vindo(a)
 
 <div>
-  <img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=luk-z0&hide=css,html,glsl&theme=github_dark" >
+  <img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=luk-z0&hide=css,html,glsl&layout=compact&theme=github_dark" >
 </div> 
 <h3>Tecnológias estudadas</h3>
 <div style = "display: inline_block"><br>

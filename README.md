@@ -2,7 +2,7 @@
 
 <div>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk-z0&hide=cpp,cmake,python,glsl&layout=compact&theme=github_dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk-z0&hide=cpp,cmake,python,glsl,html&layout=compact&theme=github_dark" 
     alt="Top Languages"
     style="max-width: 100%;">
 </div>

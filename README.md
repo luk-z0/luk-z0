@@ -20,9 +20,8 @@
 
 <h3>📚 Atualmente Estudando</h3>
 <div style="display: inline-block; margin-top: 10px;">
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" nestjs-plain.svg" alt="NestJS" />
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />  
 </div>
-
 <br>
 
 <div>

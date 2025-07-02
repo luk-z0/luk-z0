@@ -1,15 +1,20 @@
 <h2>👋 Olá, Bem-vindo(a)!</h2>
 <h3>Sobre Mim</h3>
-<p>Sou desenvolvedor web com foco em projetar aplicações escaláveis, voltadas para solucionar e otimizar problemas reais. Tenho sede de conhecimento e busco construir uma carreira sólida, fundamentada em bases profundas e consistentes.</p>
+<p>
+	Sou desenvolvedor web com foco em projetar aplicações escaláveis, voltadas
+	para solucionar e otimizar problemas reais. Tenho sede de conhecimento e
+	busco construir uma carreira sólida, fundamentada em bases profundas e
+	consistentes.
+</p>
 <ul>
-  <li>Bacharel em Ciência da Computação (UNICAP)</li>
-  <li>Desenvolvedor FullStack</li>
-  <li>Pernambuco, Brasil</li>
+	<li>Bacharel em Ciência da Computação (UNICAP)</li>
+	<li>Desenvolvedor FullStack</li>
+	<li>Pernambuco, Brasil</li>
 </ul>
 
 <hr />
 <div style="display: inline_block" align="justify">
-  <h3>🧠 Tecnologias Estudadas</h3>
+	<h3>🧠 Tecnologias Estudadas</h3>
 	<img
 		src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
 		alt="Java"
@@ -25,6 +30,12 @@
 	<img
 		src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
 		alt="TypeScript"
+		height="30"
+		width="auto"
+	/>
+	<img
+		src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+		alt="PHP"
 		height="30"
 		width="auto"
 	/>
@@ -54,7 +65,7 @@
 </div>
 <hr />
 <div style="display: inline_block" align="justify">
-  <h3>🧩 Bibliotecas e Frameworks</h3>
+	<h3>🧩 Bibliotecas e Frameworks</h3>
 	<img
 		src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"
 		alt="Vue.js"
@@ -82,7 +93,7 @@
 </div>
 <hr />
 <div style="display: inline_block" align="justify">
-  <h3>💾 Gerenciadores de Banco de Dados</h3>
+	<h3>💾 Gerenciadores de Banco de Dados</h3>
 	<img
 		src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
 		alt="PostgreSQL"
@@ -98,7 +109,7 @@
 </div>
 <hr />
 <div style="display: inline_block" align="justify">
-  <h3>⚙️ Utilitários e IDEs</h3>
+	<h3>⚙️ Utilitários e IDEs</h3>
 	<img
 		src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
 		alt="Git"
@@ -132,7 +143,7 @@
 </div>
 <hr />
 <div style="display: inline_block" align="justify">
-  <h3>📚 Atualmente Estudando</h3>
+	<h3>📚 Atualmente Estudando</h3>
 	<img
 		src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
 		alt="Java"
@@ -143,7 +154,12 @@
 
 <hr />
 
-<div style="display: inline_block" align="justify" style="display: inline_block" align="justify">
+<div
+	style="display: inline_block"
+	align="justify"
+	style="display: inline_block"
+	align="justify"
+>
 	<img
 		height="160em"
 		src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk-z0&locale=pt-br&hide=cpp,cmake,python,glsl,html,blade,css&layout=compact&theme=github_dark"
@@ -161,6 +177,6 @@
 <hr />
 
 ### Contatos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-2492101a3/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/luk-z0) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=red)](mailto:lucasdias200lucasdias@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-2492101a3/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/luk-z0)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=red)](mailto:lucasdias200lucasdias@gmail.com)

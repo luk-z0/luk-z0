@@ -90,6 +90,12 @@
 		height="30"
 		width="auto"
 	/>
+	<img
+	    src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82"
+	    alt="Nuxt.js"
+	    height="30"
+	    width="auto"
+	/>
 </div>
 <hr />
 <div style="display: inline_block" align="justify">
@@ -144,12 +150,7 @@
 <hr />
 <div style="display: inline_block" align="justify">
 	<h3>📚 Atualmente Estudando</h3>
-	<img
-		src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
-		alt="Java"
-		height="30"
-		width="auto"
-	/>
+	
 </div>
 
 <hr />
@@ -177,6 +178,6 @@
 <hr />
 
 ### Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-2492101a3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-luz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/luk-z0)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=red)](mailto:lucasdias200lucasdias@gmail.com)

@@ -91,7 +91,7 @@
 		width="auto"
 	/>
 	<img
-	    src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82"
+	    src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82"
 	    alt="Nuxt.js"
 	    height="30"
 	    width="auto"

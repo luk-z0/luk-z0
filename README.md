@@ -16,7 +16,7 @@
 <div style="display: inline_block" align="justify">
 	<h3>🧠 Tecnologias Estudadas</h3>
 	<img
-		src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+		src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
 		alt="Java"
 		height="30"
 		width="auto"
@@ -112,6 +112,12 @@
 		height="30"
 		width="auto"
 	/>
+	<img
+    src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="MongoDB"
+    height="30"
+    width="auto"
+/>
 </div>
 <hr />
 <div style="display: inline_block" align="justify">

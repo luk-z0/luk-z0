@@ -161,28 +161,6 @@
 
 <hr />
 
-<div
-	style="display: inline_block"
-	align="justify"
-	style="display: inline_block"
-	align="justify"
->
-	<img
-		height="160em"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk-z0&locale=pt-br&hide=cpp,cmake,python,glsl,html,blade,css&layout=compact&theme=github_dark"
-		alt="Top Languages"
-		style="max-width: 100%"
-	/>
-	<img
-		height="160em"
-		src="https://github-readme-stats.vercel.app/api?username=luk-z0&show_icons=true&theme=github_dark&locale=pt-br"
-		alt="Anurag's GitHub stats"
-		style="max-width: 100%; max-height: 200px"
-	/>
-</div>
-
-<hr />
-
 ### Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-luz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/luk-z0)

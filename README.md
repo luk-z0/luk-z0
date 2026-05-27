@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou o Lucas Gabriel!
 
 ### 🚀 Sobre Mim
-Sou **Desenvolvedor FullStack** focado em criar aplicações escaláveis e otimizar processos reais. Sou bacharel em **Ciência da Computação pela UNICAP** e busco constantemente aprofundar meus conhecimentos técnicos para construir soluções consistentes.
+Sou **Desenvolvedor FullStack** focado em criar aplicações escaláveis e otimizar processos reais. Sou bacharel em **Ciência da Computação** e busco constantemente aprofundar meus conhecimentos técnicos para construir soluções consistentes.
 
 - 📍 Pernambuco, Brasil
-- 🎓 Bacharel em Ciência da Computação (UNICAP)
+- 🎓 Bacharel em Ciência da Computação
 - 💻 Desenvolvedor FullStack
 
 ---

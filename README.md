@@ -20,14 +20,14 @@
 
 ## Sobre mim
 
-Sou **Desenvolvedor Full Stack** e bacharel em **Ciência da Computação**, com foco em construir aplicações web escaláveis, APIs performáticas e interfaces consistentes.
+Sou **Desenvolvedor Full Stack** e bacharel em **Ciência da Computação**, com foco na construção de aplicações web escaláveis, APIs performáticas e interfaces consistentes, aplicando boas práticas de arquitetura, qualidade de código e segurança.
 
 Tenho experiência com desenvolvimento front-end utilizando **Vue.js, Nuxt, Quasar, TypeScript e TailwindCSS**, além de back-end com **Laravel, PHP, Spring Boot e Java**. Também aplico boas práticas como **SOLID, Clean Code, MVC, arquitetura em camadas, versionamento com Git/GitHub e integração contínua**.
 
 ```txt
-📍 Pernambuco, Brasil
-🎓 Bacharel em Ciência da Computação
-💻 Desenvolvedor Full Stack
+📍 Pernambuco, Brasil  
+🎓 Bacharel em Ciência da Computação  
+💻 Desenvolvedor Full Stack | Engenharia de Software
 ```
 
 ---

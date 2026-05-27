@@ -72,30 +72,71 @@ Tenho experiência com desenvolvimento front-end utilizando **Vue.js, Nuxt, Quas
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-### DevOps, cloud e ferramentas
+### DevOps, Cloud & Ferramentas
+
+#### Versionamento e colaboração
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Code%20Review-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Code Review" />
+</p>
+
+#### CI/CD e automação
+
+<p>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge" alt="CI/CD" />
+</p>
+
+#### Containers
+
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+#### Cloud
+
+<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
+
+#### Ferramentas de desenvolvimento
+
+<p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+</p>
+
+#### Design e prototipação
+
+<p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### Testes, arquitetura e boas práticas
+---
+
+### Qualidade, Testes & Arquitetura
+
+#### Testes automatizados
 
 <p>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
   <img src="https://img.shields.io/badge/Pest-6CFF8F?style=for-the-badge&logo=pestphp&logoColor=000000" alt="Pest" />
-  <img src="https://img.shields.io/badge/SOLID-1F2937?style=for-the-badge" alt="SOLID" />
-  <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge" alt="Clean Code" />
+</p>
+
+#### Arquitetura de software
+
+<p>
   <img src="https://img.shields.io/badge/MVC-374151?style=for-the-badge" alt="MVC" />
   <img src="https://img.shields.io/badge/Design%20Patterns-4B5563?style=for-the-badge" alt="Design Patterns" />
-  <img src="https://img.shields.io/badge/Code%20Review-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Code Review" />
+</p>
+
+#### Boas práticas de desenvolvimento
+
+<p>
+  <img src="https://img.shields.io/badge/SOLID-1F2937?style=for-the-badge" alt="SOLID" />
+  <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge" alt="Clean Code" />
 </p>
 
 ---

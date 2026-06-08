@@ -121,7 +121,6 @@ Tenho experiência com desenvolvimento front-end utilizando **Vue.js, Nuxt, Quas
 #### Testes automatizados
 
 <p>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
   <img src="https://img.shields.io/badge/Pest-6CFF8F?style=for-the-badge&logo=pestphp&logoColor=000000" alt="Pest" />
 </p>
 

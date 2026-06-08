@@ -60,7 +60,6 @@ Tenho experiência com desenvolvimento front-end utilizando **Vue.js, Nuxt, Quas
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
   <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000" alt="Swagger/OpenAPI" />
 </p>
 
@@ -136,6 +135,7 @@ Tenho experiência com desenvolvimento front-end utilizando **Vue.js, Nuxt, Quas
 <p>
   <img src="https://img.shields.io/badge/SOLID-1F2937?style=for-the-badge" alt="SOLID" />
   <img src="https://img.shields.io/badge/Clean%20Code-111827?style=for-the-badge" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
 </p>
 
 ---

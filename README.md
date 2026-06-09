@@ -39,11 +39,13 @@ Tenho experiência com desenvolvimento front-end utilizando **Vue.js, Nuxt, Quas
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ### Front-end
 
 <p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
@@ -59,8 +61,8 @@ Tenho experiência com desenvolvimento front-end utilizando **Vue.js, Nuxt, Quas
 ### Back-end
 
 <p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000" alt="Swagger/OpenAPI" />
 </p>
 
 ### Banco de dados e cache
@@ -121,6 +123,12 @@ Tenho experiência com desenvolvimento front-end utilizando **Vue.js, Nuxt, Quas
 
 <p>
   <img src="https://img.shields.io/badge/Pest-6CFF8F?style=for-the-badge&logo=pestphp&logoColor=000000" alt="Pest" />
+</p>
+
+### Documentação de APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000" alt="Swagger/OpenAPI" />
 </p>
 
 #### Arquitetura de software
